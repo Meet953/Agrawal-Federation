@@ -1,0 +1,80 @@
+/* ********** LOGIN ********** */
+.login-container{
+	height: 100vh; 
+	background-image: url('../images/Admin/login.jpg'); 
+	background-size: cover;
+}
+.login-subcont{
+	margin-top: 150px;
+}
+.login-wrapper{
+	height: 55vh; 
+	background-color:rgba(128, 128, 128, 0.23);
+}
+.login-head{
+	color:white; 
+	font-weight: 100;
+}
+.login-ctrl{
+	height: 40px;
+	border-radius: 0px;
+	color:orange;
+	font-size: 15px;
+}
+.login-btn{
+	border-radius: 0px; 
+	height: 40px; 
+	width: 100px;
+	font-size: 16px;
+}
+/* ********** INDEX ********** */
+.dash-head{
+	font-family: Lucida Calligraphy; 
+	color:#00bcd4;
+}
+.dash-wrapper{
+	height: 483px; 
+	background-image: url('../images/Admin/dashboard.jpg'); 
+	background-size: cover;
+}
+/* ********** USER-REGISTER ********** */
+.panel-head-stl{
+	font-size: 15px; 
+	font-weight: 600; 
+	text-transform: uppercase;
+}
+.panel-body-top{
+	margin-top: 20px;
+}
+.table-tr-stl{
+	color:red;
+}
+/* ********** COMPANY-FOUNDER ********** */
+.compny-foudr-wrapper{
+	height: auto; 
+	margin-top: 50px;
+}
+.view-btn{
+	font-size: 15px; 
+	font-weight: 600; 
+	text-transform: uppercase;
+}
+/* ********** POST-MEDICAL ********** */
+.med_wrapper{
+	height: auto; 
+	margin-top: 20px;
+}
+.med_cont_person{
+	color:gray; 
+	font-weight: 900; 
+	font-size: 17px;
+}
+.med_accept{
+	margin-left: 20px;
+}
+.accept_terms{
+	font-weight: 600;
+}
+.faq_top{
+	margin-top: 30px;
+}
